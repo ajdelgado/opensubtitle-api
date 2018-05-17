@@ -1,2 +1,2 @@
 # opensubtitle-api
-API for OpenSubtitles.org
+Python3 API for OpenSubtitles.org
